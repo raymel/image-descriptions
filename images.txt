@@ -1,3 +1,3 @@
-G1411, Golden Gate Bridge
-G1413, Red Car in Front of Golden Gate Bridge
-G1418, Rose
+G1411, Golden Gate Bridge - OK
+G1413, Red Car in Front of Golden Gate Bridge - This is Angola
+G1418, Rose - No this is a pickle.
